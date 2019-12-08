@@ -6,8 +6,22 @@ Database: H2
 
 
 <h2>How to run:</h2>
-`./mvnw clean install`<br>
-`java -jar target/money-transfer-app-h2-1.0-runner.jar` <br><br>
+
+For MAC:
+```
+./mvnw clean install
+
+java -jar target/money-transfer-app-h2-1.0-runner.jar
+```
+
+For Windows:
+```
+mvnw clean install
+
+java -jar target/money-transfer-app-h2-1.0-runner.jar
+```
+
+<br><br>
 
 <h2>SWAGGER URL</h2>
 http://localhost:8080/swagger-ui/
