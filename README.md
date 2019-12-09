@@ -18,7 +18,7 @@ For Windows:
 ```
 mvnw clean install
 
-java -jar target/money-transfer-app-h2-1.0-runner.jar
+java -jar target/money-transfer-CQRS-h2-1.0-runner.jar
 ```
 
 <br><br>
