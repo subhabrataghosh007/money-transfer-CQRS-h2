@@ -11,7 +11,7 @@ For MAC:
 ```
 ./mvnw clean install
 
-java -jar target/money-transfer-app-h2-1.0-runner.jar
+java -jar target/money-transfer-CRQS-h2-1.0-runner.jar
 ```
 
 For Windows:
